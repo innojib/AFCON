@@ -1,7 +1,7 @@
 remote_theme: pages-themes/primer@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [La coupe d'Afrique des nations
+description: [Copétition qui existe depuis 1957, la cCoupe d'afrique des nations  apour rassembler tout le continent africain autour d'une passion , lefFoot-ball.
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
