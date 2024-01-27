@@ -2,8 +2,7 @@
 Compétition qui existe depuis 1957, la cCoupe d'afrique des nations  apour rassembler tout le continent africain autour d'une passion, le foot-ball. [Mon texte ici] 
 ...
 
-<iframe title="Les participations à la  CAN]" aria-label="Map" id="datawrapper-chart-P1cH2" src="https://datawrapper.dwcdn.net/P1cH2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="683" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<iframe title="Les participations à la  CAN]" aria-label="Map" id="datawrapper-chart-P1cH2" src="https://datawrapper.dwcdn.net/P1cH2/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="683" data-external="1"></iframe>
 
 
 
