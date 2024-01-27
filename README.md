@@ -2,10 +2,10 @@
 Compétition qui existe depuis 1957, la Coupe d'afrique des nations a pour objectif de rassembler tout le continent africain autour d'une passioncommune : le foot-ball. 
 [Mon texte ici] 
 ...
-
-<iframe title="Nombre de participation par pays à la CAN" aria-label="Carte" id="datawrapper-chart-P1cH2" src="https://datawrapper.dwcdn.net/P1cH2/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="699" data-external="1"></iframe>
+<div style="min-height:699px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/P1cH2/embed.js?v=3" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/P1cH2/full.png" alt="Cette carte indique le nombre de participation au tournoi de la Coupe d'Afrique des nations" /></noscript></div>
 
 >
+
 
  
 
