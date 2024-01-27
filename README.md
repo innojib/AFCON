@@ -1,12 +1,13 @@
 # AFCON
-Compétition qui existe depuis 1957, la cCoupe d'afrique des nations  apour rassembler tout le continent africain autour d'une passion, le foot-ball. [Mon texte ici] 
+Compétition qui existe depuis 1957, la Coupe d'afrique des nations a pour objectif de rassembler tout le continent africain autour d'une passioncommune : le foot-ball. 
+[Mon texte ici] 
 ...
 
-<div style="min-height:683px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/P1cH2/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/P1cH2/full.png" alt="" /></noscript></div>
+<div style="min-height:683px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/P1cH2/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/P1cH2/full.png" alt="" title="Carte représentative de la participation par pays à la CAN" /></noscript></div>
 
 >
 
-
+ 
 
 
 ## Sommaire : 
@@ -19,7 +20,8 @@ Compétition qui existe depuis 1957, la cCoupe d'afrique des nations  apour rass
 
 ## 1. Collecte des données <a name="données"></a>
 
-[Mon texte ici]
+Les données utilisées pour cette analyse du football africain sont issues de sources diverses dont Wikipédia, les archives de l'Urssf, la chaine l'équipe.
+>Remarque : les informations issues de Wikipédia ont été croisées d'utres sources d'informations pour s'assurer de leur fiabilité.  
 
 ``` sparql
 #Mon code sparql
