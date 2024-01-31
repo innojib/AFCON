@@ -52,7 +52,8 @@ ORDER BY ?paysLabel
 >
 ## 3.Les Buts marqués Par pays Entre l'édition 1992 et l'édition 2021 <a name="buts marqué de 1992 à 2021"></a>
 > Story : les principaux buteurs des éditions précédentes
-> https://public.flourish.studio/story/2162474/
+
+<div class="flourish-embed" data-src="story/2162474"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 >-Carte des buts totaux marqués par pays
 <div style="min-height:699px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/P1cH2/embed.js?v=3" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/P1cH2/full.png" alt="Cette carte indique le nombre de participation au tournoi de la Coupe d'Afrique des nations" /></noscript></div>
