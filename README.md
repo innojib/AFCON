@@ -17,8 +17,11 @@ J'ai fait le choix de recueillir les données sur les sélections qualifiées à
 
 >Remarque : les informations issues de Wikipédia ont été croisées d'autres sources d'informations pour s'assurer de leur fiabilité. Elles ont été recueillies et formatées manuellement au format csv.
 >Le traitement sur l'outil Open Refine est une étape de vérification et de validation du jeu de données créé.
->Le jeu de donnée se présente comme suit
-*   
+>Le jeu de donnée se présente comme suit :
+>- un fichier selectioneurs.tsv[source:https://github.com/innojib/AFCON/blob/main/selectionneur-csv.tsv]
+>- un fichier VF_buteurs1998_2021.csv[source:https://github.com/innojib/AFCON/blob/main/VF_Buteurs1998_2021AFCON.csv]
+>- un fichier drapeauEmbleme.csv[source:https://github.com/innojib/AFCON/blob/main/DrapeauSurnom.csv]
+
 
 ``` sparql
 #defaultView:ImageGrid
