@@ -42,14 +42,14 @@ ORDER BY ?paysLabel
 
 
 >
-https://public.flourish.studio/story/2162474/
+<div class="flourish-embed" data-src="story/2162474"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 >
 >
 ## 3.Les Buts marqués Par pays Entre l'édition 1992 et l'édition 2021 <a name="buts marqué de 1992 à 2021"></a>
 [Mon texte ici]
 
 > Story
-https://public.flourish.studio/story/2162474/
+> https://public.flourish.studio/story/2162474/
 
 <iframe title="Représentation des sélectionneurs par leur nationalité" aria-label="Carte" id="datawrapper-chart-6zOh4" src="https://datawrapper.dwcdn.net/6zOh4/2/" scrolling="no" frameborder="0" style="border: none;" width="900" height="506" data-external="1"></iframe>
 
