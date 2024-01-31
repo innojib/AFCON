@@ -1,29 +1,19 @@
->Compétition qui existe depuis 1957, la Coupe d'afrique des nations a pour objectif de rassembler tout le continent africain autour d'une passioncommune : le foot-ball.
->
->
-## Les pays du continent africain <a name="pays africains"></a>
-<iframe src='https://flo.uri.sh/visualisation/16598308/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16598308/?utm_source=embed&utm_campaign=visualisation/16598308' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-
-
->
-
->
->
-[Mon texte ici] 
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/16637550"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+>Compétition qui existe depuis 1957, la Coupe d'afrique des nations a pour objectif de rassembler tout le continent africain autour d'une passion commune : le foot-ball. Créée à l'intiative de l'Afrique du Sud, l'Egypte, X et Y, la première édition...
 
 ## Sommaire : 
 1. [Collecte des données](#données)
-2. [Titre 2.](#localisationCarte)
+2. [Les pays du continent africain](#paysSurnom)
 3. [Titre 3](#Commentaire)
 4. [Titre 4](#commentaire)
 5. [Titre 5](#commentaire)
 
+
 ## 1. Collecte des données <a name="données"></a>
 
-Les données utilisées pour cette analyse du football africain sont issues de sources diverses dont Wikipédia, les archives de l'Urssf, la chaine l'équipe.
->Remarque : les informations issues de Wikipédia ont été croisées d'utres sources d'informations pour s'assurer de leur fiabilité.  
+Les données utilisées pour cette analyse du football africain sont issues de sources diverses dont Wikipédia, les archives de la RSSf, la chaine l'Equipe, entres autres.
+J'ai fait le choix de recueillir les données sur les sélections qualifiées à partir de l'année 1992, correspondant à la première édition organisée par le Sénégal.
+
+>Remarque : les informations issues de Wikipédia ont été croisées d'utres sources d'informations pour s'assurer de leur fiabilité dont .  
 
 ``` sparql
 #defaultView:ImageGrid
@@ -41,6 +31,19 @@ WHERE {
 }
 ORDER BY ?paysLabel
 ```
+>
+## 2.Les pays du continent africain <a name="pays africains"></a>
+<iframe src='https://flo.uri.sh/visualisation/16598308/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16598308/?utm_source=embed&utm_campaign=visualisation/16598308' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+
+>
+
+>
+## 3.Les Buts marqués Par pays Entre l'édition 1992 et l'édition 2021 <a name="buts marqué de 1992 à 2021"></a>
+[Mon texte ici]
+
+<div class="flourish-embed" data-src="story/2162474"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 
 
