@@ -18,12 +18,14 @@ J'ai fait le choix de recueillir les données sur les sélections qualifiées à
 >Remarque : les informations issues de Wikipédia ont été croisées d'autres sources d'informations pour s'assurer de leur fiabilité. Elles ont été recueillies et formatées manuellement au format csv.
 >Le traitement sur l'outil Open Refine est une étape de vérification et de validation du jeu de données créé.
 >
-Le jeu de donnée se présente comme suit 
+Le jeu de donnée se présente comme suit :
 >- un fichier [selectioneurs.tsv](https://github.com/innojib/AFCON/blob/main/selectionneur-csv.tsv)
 >- un fichier [VF_buteurs1998_2021.csv](https://github.com/innojib/AFCON/blob/main/VF_Buteurs1998_2021AFCON.csv)
 >- un fichier [drapeauEmbleme.csv](https://github.com/innojib/AFCON/blob/main/DrapeauSurnom.csv)
 >- un fihier [AFCON1992_2021.csv](https://github.com/innojib/AFCON/blob/main/AFCON1992to2021_data.csv)
 
+
+>-Les images des drapeaux des pays africains sont exportées depuis Wikidata avec la reqête suivante:
 
 ``` sparql
 #defaultView:ImageGrid
@@ -43,23 +45,18 @@ ORDER BY ?paysLabel
 ```
 >
 ## 2.Les pays du continent africain <a name="pays africains"></a>
+>Le continent africain compte 54 pays et chaque pays à un emblème, le plus souvent un animal, qui le symbolise.
+>Ci-dessous la liste de tous les pays du continents africains ainsi que certains faits à leur propos.
 <div class="flourish-embed flourish-cards" data-src="visualisation/16598308"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
->
-<div class="flourish-embed" data-src="story/2162474"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
->
 >
 ## 3.Les Buts marqués Par pays Entre l'édition 1992 et l'édition 2021 <a name="buts marqué de 1992 à 2021"></a>
-[Mon texte ici]
-
-> Story
+> Story : les principaux buteurs des éditions précédentes
 > https://public.flourish.studio/story/2162474/
 
-<iframe title="Représentation des sélectionneurs par leur nationalité" aria-label="Carte" id="datawrapper-chart-6zOh4" src="https://datawrapper.dwcdn.net/6zOh4/2/" scrolling="no" frameborder="0" style="border: none;" width="900" height="506" data-external="1"></iframe>
-
-...
+>-Carte des buts totaux marqués par pays
 <div style="min-height:699px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/P1cH2/embed.js?v=3" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/P1cH2/full.png" alt="Cette carte indique le nombre de participation au tournoi de la Coupe d'Afrique des nations" /></noscript></div>
 
-## (
+## 4.Les sélectionneurs <a name="sélectionneurs"></a>
+<iframe title="Représentation des sélectionneurs par leur nationalité" aria-label="Carte" id="datawrapper-chart-6zOh4" src="https://datawrapper.dwcdn.net/6zOh4/2/" scrolling="no" frameborder="0" style="border: none;" width="900" height="506" data-external="1"></iframe>
 
