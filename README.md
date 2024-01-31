@@ -44,7 +44,8 @@ ORDER BY ?paysLabel
 
 <div class="flourish-embed" data-src="story/2162474"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
+> Story
+https://public.flourish.studio/story/2162474/
 
 
 ...
