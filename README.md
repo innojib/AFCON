@@ -1,19 +1,24 @@
->Compétition qui existe depuis 1957, la Coupe d'afrique des nations a pour objectif de rassembler tout le continent africain autour d'une passion commune : le foot-ball. Créée à l'intiative de l'Afrique du Sud, l'Egypte, X et Y, la première édition...
+Compétition qui existe depuis 1957, la Coupe d'afrique des nations a pour objectif de rassembler tout le continent africain autour d'une passion commune : le foot-ball. Créée par une initiative commune de l'Afrique du Sud, l'Egypte, Le soudan et l'Ethiopie, la première édition ne se jouera qu'avec 03 équipes, L'Afrique du Sud étant encore sous Apartheid écartée pour cause de racisme, ne voulant inclure des joueurs noirs dans l'équipe nationale.
+Cependant, les années suivantes, la CAN est devenue de plus en plus inclusive et le tournoi accueil dorénavant 24 équipes qualifiées tous les 2 ans à la compétition continentale et permet de découvrir la diversité du continent.
+
 
 ## Sommaire : 
 1. [Collecte des données](#données)
-2. [Les pays du continent africain](#paysSurnom)
-3. [Titre 3](#Commentaire)
+2. [Présentation des pays du continent africain](#paysSurnom)
+3. [Les Buts marqués entre l'édition 1992 et l'édition 2021](#Goalscorers)
 4. [Titre 4](#commentaire)
 5. [Titre 5](#commentaire)
 
 
 ## 1. Collecte des données <a name="données"></a>
 
-Les données utilisées pour cette analyse du football africain sont issues de sources diverses dont Wikipédia, les archives de la RSSf, la chaine l'Equipe, entres autres.
+Les données utilisées pour cette analyse du football africain sont issues de sources diverses dont Wikipédia, les archives de la RSSf(source:African Nations Cup 1992 (rsssf.org)) , la chaine l'Equipe, entres autres.
 J'ai fait le choix de recueillir les données sur les sélections qualifiées à partir de l'année 1992, correspondant à la première édition organisée par le Sénégal.
 
->Remarque : les informations issues de Wikipédia ont été croisées d'utres sources d'informations pour s'assurer de leur fiabilité dont .  
+>Remarque : les informations issues de Wikipédia ont été croisées d'autres sources d'informations pour s'assurer de leur fiabilité. Elles ont été recueillies et formatées manuellement au format csv.
+>Le traitement sur l'outil Open Refine est une étape de vérification et de validation du jeu de données créé.
+>Le jeu de donnée se présente comme suit
+*   
 
 ``` sparql
 #defaultView:ImageGrid
