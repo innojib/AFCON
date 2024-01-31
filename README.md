@@ -46,7 +46,7 @@ ORDER BY ?paysLabel
 >
 ## 2.Les pays du continent africain <a name="pays africains"></a>
 >Le continent africain compte 54 pays et chaque pays à un emblème, le plus souvent un animal, qui le symbolise.
->Ci-dessous la liste de tous les pays du continents africains ainsi que certains faits à leur propos.
+>-Ci-dessous la liste de tous les pays du continents africains, leur surnoms ainsi que des faits intéressants à leur propos.
 <div class="flourish-embed flourish-cards" data-src="visualisation/16598308"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 >
