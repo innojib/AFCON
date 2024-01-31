@@ -24,12 +24,20 @@ Les données utilisées pour cette analyse du football africain sont issues de s
 >Remarque : les informations issues de Wikipédia ont été croisées d'utres sources d'informations pour s'assurer de leur fiabilité.  
 
 ``` sparql
-#Mon code sparql
-SELECT DISTINCT ?pays ?paysLabel
+#defaultView:ImageGrid
+SELECT DISTINCT ?paysLabel ?drapeau
 WHERE {
-  ?pays wdt:P31 wd:Q9430. #océans
-  SERVICE wikibase:label {bd:serviceParam wikibase:language "fr" }
+  ?country wdt:P31/wdt:P279* wd:Q6256;  # Instance de pays 
+           wdt:P30 wd:Q15;               # Localisation Afrique
+           rdfs:label ?paysLabel;
+           wdt:P298 ?isoCode.            # ISO code pour ne pas avoir de doublons
+
+  OPTIONAL { ?country wdt:P41 ?drapeau. }   # Drapeau
+
+  FILTER(LANG(?paysLabel) = "fr")     # Filter by French labels
+  FILTER(?isoCode != "null")             
 }
+ORDER BY ?paysLabel
 ```
 
 
