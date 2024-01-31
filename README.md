@@ -47,8 +47,6 @@ ORDER BY ?paysLabel
 ## 3.Les Buts marqués Par pays Entre l'édition 1992 et l'édition 2021 <a name="buts marqué de 1992 à 2021"></a>
 [Mon texte ici]
 
-<div class="flourish-embed" data-src="story/2162474"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 > Story
 https://public.flourish.studio/story/2162474/
 
@@ -58,75 +56,3 @@ https://public.flourish.studio/story/2162474/
 
 >
 
-
-
-
-[Mon texte ici]
-
-```sparql
-
-#Titre
-SELECT DISTINCT  ?o ?oLabel ?a?image
-{
-  ?o wdt:P wd:Q. #COMMENTAIRE
-  ?o wdt:P ?a. #MON COMMENTAIRE
-  OPTIONAL { .} 
-  SERVICE wikibase:label {bd:serviceParam wikibase:language "fr" }
-}
-```
-[Mon texte ici]
-
-|     colonne1     | colonne  (en km²)|
-|:----------------:|:----------------:|
-|  Objet           |      14 056 000  |
-|  Objet           |      76 174 000  |
-|   Objet          |      20 327 000  |
-|  Objet           |     106 460 000  |
-|    Objet         |     161 760 000  |
-|    Objet         |     361 260 000  |
-
-> *[Mon texte ici]
->
->> [Mon texte ici]
-
-
-[Mon texte ici]
-
-## Titre <a name="Titrage"></a>
-[Mon texte ici]
-
-## 3.Titre <a name="titre2"></a>
-
-[Mon texte ici]
-
-## 4. Titre <a name="titre"></a>
-
-![lambda](https://upload.wikimedia.org/wikipediap.jpg "Image de l’observation au microscope de microplastiques")
-[Mon texte ici]
-
-
-[Mon texte ici]
-
------------------------------------------------------------------------------
-[Mon texte ici]
-
-## 5. Titre: objet de ma partie<a name="objet"></a>
-
-<div class="flourish-embed flourish-cards" data-src="visualisation/12790"><script src="https://public.flourish.cvbnstudio/resources/embed.js"></script></div>
-
-[Mon texte ici]
-
-## 6. Titre
- 
-
-
-> [Mon texte ici]
->
->>[Mon texte ici]
-
-## Conclusion : <a name="conclusion"></a>
-
-[Mon texte ici
-- anaphainetai o helios
-- dura lex sed lex
-- ]
