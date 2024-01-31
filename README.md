@@ -6,8 +6,8 @@ Cependant, les années suivantes, la CAN est devenue de plus en plus inclusive e
 1. [Collecte des données](#données)
 2. [Présentation des pays du continent africain](#paysSurnom)
 3. [Les Buts marqués entre l'édition 1992 et l'édition 2021](#Goalscorers)
-4. [Titre 4](#commentaire)
-5. [Titre 5](#commentaire)
+4. [Les sélectionneurs ](#coach)
+5. [Conclusion](#conclusion)
 
 
 ## 1. Collecte des données <a name="données"></a>
@@ -56,5 +56,5 @@ https://public.flourish.studio/story/2162474/
 ...
 <div style="min-height:699px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/P1cH2/embed.js?v=3" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/P1cH2/full.png" alt="Cette carte indique le nombre de participation au tournoi de la Coupe d'Afrique des nations" /></noscript></div>
 
->
+## (
 
